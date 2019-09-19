@@ -1,0 +1,11 @@
+/packages/
+/.vs/
+*/bin/
+*/obj/
+*/Debug/
+*/Release/
+/UpgradeLog.htm
+/UpgradeLog2.htm
+*.vspx
+*.psess
+*.user
